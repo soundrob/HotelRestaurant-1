@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_6b6f2db7d7029ed0f3c8436640b71af702d2735e.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0496780e48b2cf0e3fa99072e9664d66918b55bf">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/instant-run_38060f09e51e1efac89058f6055fae2bfc1a5993.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.3.0_73a2ce103b23880ef0191c08534f89e3ea016cbd.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.3.0_374a753a09fc825aee17413dd802100967aca96c.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="da7ba7ca9121b1b15ecdf4db203563c06bceef11">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0304b1ae041b5a0239dfd7c05bd0bf9e697ade56.jar" />
+    </item>
+    <item
+        jar="/Users/redixbit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_50acfc3fa7d8d4c790f80d93d00f5c794ecf8ae3.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.3.0_6050c82d65ac976a9773ccec3876393f6f144b4d.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.3.0_3b7d7037f166adf4a2a893058b415402109aacb8.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_742da52d835190ccdcbf0cd80628ade0e558f86f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_3956c09b14edfad7a07c2b9738602b27d6385096.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.3.0_8e82a8f0be82ffbd6bf5680c50733c607c0adbe7.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.3.0_a8dee12b81ae8212dbc924a7c2d6812f3bd4462f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.3.0_b435aeae86c884a47670ecda2bcef2f601bef951.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_f8dc86cf2f56ac2b5040f8fc7a067ddc7c790a41.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.3.0_f684783324c3926498427724ea5bf738ad56f6d1.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.3.0_e955089a51e407eea805455691242dce7f1a1890.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.3.0_0ac59edd5edac6b8a0ab47fca1f697790c355dc5.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/libs/httpcore-4.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="11393498b38e9695d0850cac26fde5613ae268b9">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/httpcore-4.3_975d3f21e2495c31b71900a549bfd4ce54bdb2bc.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.3.0_9e03e672058c2f7cdbc50e3114aa9c56c7f6a3d7.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.3.0_f3e700880dc5629a53abe42eb74164cff7e65624.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.3.0_931eecb81246404b66c9e16287ade2d8784daef3.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.3.0_4f8223c0b886978006ac8341da12ee6c483c9106.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/libs/apache-mime4j-0.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/apache-mime4j-0.6_a79f4c0096b4c52fa947e853450a0ed3bbad1c04.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.3.0_cccf20fb82075bce6d6bb0f8ce4b15d84031196b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_7b28c7d510f93c277014e2eefdd67238b24bf829.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.3.0_75418bae4510d08ff1234d6e07f5b350f1b567b4.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/libs/gcm.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92bef354f25f31cb76bd1a4f1c1df87b498a9ebf">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/gcm_d68bf5614d2da48440233c8ee67dbd24cee84d35.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/libs/httpmime-4.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7899276dddd01d8a42ecfe27e7031fcf9824422">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/httpmime-4.3.1_576e0df5c459a193a618907510b3969a065267f3.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.3.0_304b1da558006dd51b5ace50cd6edb98492389d2.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.3.0_6dc717088e5cc8751665c5cbbb40f087935ca1be.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Volumes/Development/TemplateProject/Android Template/GrantResturant ALL/GrantResturantV1.3/AndroidStudio/SingleResturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.3.0_0e0bf8fa3fd8dd1e9640fcf927ed80d1cfb28547.jar" />
+    </item>
+
+</items>

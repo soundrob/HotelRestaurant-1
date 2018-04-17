@@ -1,0 +1,432 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:2:1-178:12
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:2:1-178:12
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:2:1-178:12
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:2:1-178:12
+MERGED from [com.google.android.gms:play-services:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-7.3.0.aar/f282502a102e60ea681ed7b6ec1e4dfc/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.3.0.aar/9b90a703861c70b942d98d15aac408e6/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wallet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.3.0.aar/98a2b222d7e8588722079065aef60bbf/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.3.0.aar/58a7444c067af89ebe33dae0e1839dc6/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.3.0.aar/5045357c8b2b3327506a66cde9b38470/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/771e1d26420217501bae8aa6f8b59455/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-analytics:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.3.0.aar/3f7034cb9ed57c2c3c76792552f52e6d/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appindexing:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.3.0.aar/5221081bc9aa5edcd0b5d61a107c47c6/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.3.0.aar/a713c35117a44153ec9212789445578d/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appstate:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.3.0.aar/77452fef950488af5078b95bc42d60ff/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.3.0.aar/46960e5808ef5bc7f3fa0c241525795a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-games:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-games-7.3.0.aar/031ec6812cce15ca0e3dacd661aee8ac/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.3.0.aar/afe8f06a4345493899ce70321a68e570/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.3.0.aar/913e85ee818d4a65ee08165edf56d45a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/9673d9d892bd37f19aa510eeb1c5b5a0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/3bdb0d1d1486e9dc337bf86d92cef378/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-nearby:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.3.0.aar/01bd7a510b6812c1ad40351b7bb31018/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-panorama:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.3.0.aar/9443ff3bd56e76684a9a8fa6e9904d4b/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.3.0.aar/f0165e4c1ade9b94b31e79dd13eaf8a0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.3.0.aar/7fb07078cdf263bb7f3b52e6a4158c4e/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-wearable:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.3.0.aar/8593e591b42f9a4c0a64f910dd3dfa22/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/6ea2fa8b157ce14ecd2349bb11cc7a89/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/0580adec42f3e2a3be9a704bfd0c619d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/7c3a937376ccf99c224c71e8be7f8ca7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/d5ff023bc2040138d5febc8733cfa6b8/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:2:1-178:12
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:2:1-178:12
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:2:1-178:12
+	package
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-7.3.0.aar/f282502a102e60ea681ed7b6ec1e4dfc/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-7.3.0.aar/f282502a102e60ea681ed7b6ec1e4dfc/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.3.0.aar/9b90a703861c70b942d98d15aac408e6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.3.0.aar/9b90a703861c70b942d98d15aac408e6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.3.0.aar/98a2b222d7e8588722079065aef60bbf/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.3.0.aar/98a2b222d7e8588722079065aef60bbf/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.3.0.aar/58a7444c067af89ebe33dae0e1839dc6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.3.0.aar/58a7444c067af89ebe33dae0e1839dc6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.3.0.aar/5045357c8b2b3327506a66cde9b38470/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.3.0.aar/5045357c8b2b3327506a66cde9b38470/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/771e1d26420217501bae8aa6f8b59455/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/771e1d26420217501bae8aa6f8b59455/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-analytics:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.3.0.aar/3f7034cb9ed57c2c3c76792552f52e6d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.3.0.aar/3f7034cb9ed57c2c3c76792552f52e6d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.3.0.aar/5221081bc9aa5edcd0b5d61a107c47c6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.3.0.aar/5221081bc9aa5edcd0b5d61a107c47c6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.3.0.aar/a713c35117a44153ec9212789445578d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.3.0.aar/a713c35117a44153ec9212789445578d/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.3.0.aar/77452fef950488af5078b95bc42d60ff/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.3.0.aar/77452fef950488af5078b95bc42d60ff/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.3.0.aar/46960e5808ef5bc7f3fa0c241525795a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.3.0.aar/46960e5808ef5bc7f3fa0c241525795a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-games-7.3.0.aar/031ec6812cce15ca0e3dacd661aee8ac/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-games-7.3.0.aar/031ec6812cce15ca0e3dacd661aee8ac/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.3.0.aar/afe8f06a4345493899ce70321a68e570/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.3.0.aar/afe8f06a4345493899ce70321a68e570/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.3.0.aar/913e85ee818d4a65ee08165edf56d45a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.3.0.aar/913e85ee818d4a65ee08165edf56d45a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/9673d9d892bd37f19aa510eeb1c5b5a0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/9673d9d892bd37f19aa510eeb1c5b5a0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/3bdb0d1d1486e9dc337bf86d92cef378/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/3bdb0d1d1486e9dc337bf86d92cef378/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.3.0.aar/01bd7a510b6812c1ad40351b7bb31018/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.3.0.aar/01bd7a510b6812c1ad40351b7bb31018/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.3.0.aar/9443ff3bd56e76684a9a8fa6e9904d4b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.3.0.aar/9443ff3bd56e76684a9a8fa6e9904d4b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.3.0.aar/f0165e4c1ade9b94b31e79dd13eaf8a0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.3.0.aar/f0165e4c1ade9b94b31e79dd13eaf8a0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.3.0.aar/7fb07078cdf263bb7f3b52e6a4158c4e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.3.0.aar/7fb07078cdf263bb7f3b52e6a4158c4e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.3.0.aar/8593e591b42f9a4c0a64f910dd3dfa22/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.3.0.aar/8593e591b42f9a4c0a64f910dd3dfa22/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/6ea2fa8b157ce14ecd2349bb11cc7a89/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/6ea2fa8b157ce14ecd2349bb11cc7a89/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/0580adec42f3e2a3be9a704bfd0c619d/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/0580adec42f3e2a3be9a704bfd0c619d/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/7c3a937376ccf99c224c71e8be7f8ca7/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/7c3a937376ccf99c224c71e8be7f8ca7/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/d5ff023bc2040138d5febc8733cfa6b8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/d5ff023bc2040138d5febc8733cfa6b8/AndroidManifest.xml:20:5-43
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/771e1d26420217501bae8aa6f8b59455/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+		INJECTED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml
+permission#com.androidbunch.drawroutev2.permission.MAPS_RECEIVE
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:12:9-76
+uses-feature#0x00020000
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:15:5-17:35
+	android:glEsVersion
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:16:9-41
+	android:required
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:17:9-32
+uses-permission#com.androidbunch.drawroutev2.permission.MAPS_RECEIVE
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:19:5-92
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:19:22-89
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:20:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:21:5-98
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:21:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:26:22-78
+permission#BigData.HotelRestaurant.permission.C2D_MESSAGE
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:29:9-70
+uses-permission#BigData.HotelRestaurant.permission.C2D_MESSAGE
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:32:22-83
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:35:5-82
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:35:22-79
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:38:5-66
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:38:22-63
+application
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:40:5-176:19
+MERGED from [com.google.android.gms:play-services:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-7.3.0.aar/f282502a102e60ea681ed7b6ec1e4dfc/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-7.3.0.aar/f282502a102e60ea681ed7b6ec1e4dfc/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.3.0.aar/9b90a703861c70b942d98d15aac408e6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.3.0.aar/9b90a703861c70b942d98d15aac408e6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.3.0.aar/98a2b222d7e8588722079065aef60bbf/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.3.0.aar/98a2b222d7e8588722079065aef60bbf/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.3.0.aar/58a7444c067af89ebe33dae0e1839dc6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.3.0.aar/58a7444c067af89ebe33dae0e1839dc6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.3.0.aar/5045357c8b2b3327506a66cde9b38470/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.3.0.aar/5045357c8b2b3327506a66cde9b38470/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/771e1d26420217501bae8aa6f8b59455/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/771e1d26420217501bae8aa6f8b59455/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.3.0.aar/3f7034cb9ed57c2c3c76792552f52e6d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.3.0.aar/3f7034cb9ed57c2c3c76792552f52e6d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.3.0.aar/5221081bc9aa5edcd0b5d61a107c47c6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.3.0.aar/5221081bc9aa5edcd0b5d61a107c47c6/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.3.0.aar/a713c35117a44153ec9212789445578d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.3.0.aar/a713c35117a44153ec9212789445578d/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.3.0.aar/77452fef950488af5078b95bc42d60ff/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.3.0.aar/77452fef950488af5078b95bc42d60ff/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.3.0.aar/46960e5808ef5bc7f3fa0c241525795a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.3.0.aar/46960e5808ef5bc7f3fa0c241525795a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-games-7.3.0.aar/031ec6812cce15ca0e3dacd661aee8ac/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-games-7.3.0.aar/031ec6812cce15ca0e3dacd661aee8ac/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.3.0.aar/afe8f06a4345493899ce70321a68e570/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.3.0.aar/afe8f06a4345493899ce70321a68e570/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.3.0.aar/913e85ee818d4a65ee08165edf56d45a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.3.0.aar/913e85ee818d4a65ee08165edf56d45a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/9673d9d892bd37f19aa510eeb1c5b5a0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/9673d9d892bd37f19aa510eeb1c5b5a0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/3bdb0d1d1486e9dc337bf86d92cef378/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/3bdb0d1d1486e9dc337bf86d92cef378/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.3.0.aar/01bd7a510b6812c1ad40351b7bb31018/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.3.0.aar/01bd7a510b6812c1ad40351b7bb31018/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.3.0.aar/9443ff3bd56e76684a9a8fa6e9904d4b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.3.0.aar/9443ff3bd56e76684a9a8fa6e9904d4b/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.3.0.aar/f0165e4c1ade9b94b31e79dd13eaf8a0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.3.0.aar/f0165e4c1ade9b94b31e79dd13eaf8a0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.3.0.aar/7fb07078cdf263bb7f3b52e6a4158c4e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.3.0.aar/7fb07078cdf263bb7f3b52e6a4158c4e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.3.0.aar/8593e591b42f9a4c0a64f910dd3dfa22/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.3.0.aar/8593e591b42f9a4c0a64f910dd3dfa22/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/6ea2fa8b157ce14ecd2349bb11cc7a89/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/6ea2fa8b157ce14ecd2349bb11cc7a89/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/0580adec42f3e2a3be9a704bfd0c619d/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/0580adec42f3e2a3be9a704bfd0c619d/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/7c3a937376ccf99c224c71e8be7f8ca7/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/7c3a937376ccf99c224c71e8be7f8ca7/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/d5ff023bc2040138d5febc8733cfa6b8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/d5ff023bc2040138d5febc8733cfa6b8/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:43:9-41
+	android:largeHeap
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:44:9-33
+	android:icon
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:42:9-45
+	android:allowBackup
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:41:9-35
+	android:theme
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:45:9-40
+meta-data#com.google.android.gms.version
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:46:9-48:69
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/6ea2fa8b157ce14ecd2349bb11cc7a89/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/dragosolaru/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/6ea2fa8b157ce14ecd2349bb11cc7a89/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:47:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:49:9-51:71
+	android:value
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:51:13-68
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:50:13-62
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:53:9-56:64
+	android:configChanges
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:55:13-122
+	android:theme
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:56:13-61
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:54:13-65
+activity#BigData.HotelRestaurant.Home
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:57:9-61:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:58:13-56
+activity#BigData.HotelRestaurant.Aboutus
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:62:9-66:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:64:13-59
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:63:13-59
+activity#BigData.HotelRestaurant.MainActivity
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:67:9-71:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:69:13-32
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:68:13-64
+activity#BigData.HotelRestaurant.Offer
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:72:9-76:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:74:13-57
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:73:13-57
+activity#BigData.HotelRestaurant.Gallery
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:77:9-81:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:79:13-59
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:78:13-59
+activity#BigData.HotelRestaurant.Map
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:82:9-85:20
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:84:13-55
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:83:13-32
+activity#BigData.HotelRestaurant.SingleViewActivity
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:94:9-97:20
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:96:13-63
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:95:13-47
+activity#BigData.HotelRestaurant.Menu
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:98:9-103:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:100:13-56
+	android:windowSoftInputMode
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:102:13-52
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:99:13-56
+activity#BigData.HotelRestaurant.SelectItem
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:104:9-108:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:107:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:106:13-63
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:105:13-39
+activity#BigData.HotelRestaurant.BookTable
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:109:9-113:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:111:13-62
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:110:13-61
+activity#BigData.HotelRestaurant.Orderdetail
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:114:9-119:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:116:13-63
+	android:windowSoftInputMode
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:118:13-52
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:115:13-63
+activity#BigData.HotelRestaurant.Notes
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:120:9-124:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:123:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:122:13-57
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:121:13-57
+activity#BigData.HotelRestaurant.ImageViewPager
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:125:9-128:20
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:127:13-68
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:126:13-43
+service#BigData.HotelRestaurant.utils.NotificationService
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:130:9-132:38
+	android:enabled
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:132:13-35
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:131:13-77
+receiver#BigData.HotelRestaurant.utils.AlarmReceiver
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:134:9-136:38
+	android:enabled
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:136:13-35
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:135:13-71
+activity#BigData.HotelRestaurant.Setting
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:138:9-141:20
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:140:13-59
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:139:13-59
+receiver#BigData.HotelRestaurant.utils.GcmBroadcastReceiver
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:143:9-155:20
+	android:permission
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:145:13-73
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:144:13-78
+intent-filter#BigData.HotelRestaurant+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:146:13-154:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:149:17-81
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:149:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:151:17-86
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:151:25-83
+category#BigData.HotelRestaurant
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:153:17-67
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:153:27-65
+service#BigData.HotelRestaurant.utils.GCMIntentService
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:157:9-159:38
+	android:enabled
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:159:13-35
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:158:13-74
+activity#BigData.HotelRestaurant.Message
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:161:9-165:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:164:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:163:13-59
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:162:13-59
+activity#BigData.HotelRestaurant.Splash
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:166:9-175:20
+	android:screenOrientation
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:169:13-49
+	android:label
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:168:13-45
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:167:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:170:13-174:29
+action#android.intent.action.MAIN
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:171:17-69
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:171:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:173:17-77
+	android:name
+		ADDED from /Users/dragosolaru/AndroidStudioProjects/HotelRestaurant/HotelRestaurant/src/main/AndroidManifest.xml:173:27-74
